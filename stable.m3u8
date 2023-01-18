@@ -23,24 +23,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 ,大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/asam.png" group-title="港澳台",澳視澳門
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w1516452922.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aomenzixun.png" group-title="澳門",澳門資訊
-https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/chunklist_w1539722872.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/asty.png" group-title="澳門",澳門體育
-https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/chunklist_w1683518202.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aszy.png" group-title="澳門",澳門綜藝
-https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/chunklist_w1782208523.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/ammacau.png" group-title="澳門",澳門Macau
-https://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w969835654.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aspw.png" group-title="澳門",澳門葡文
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w1174887667.m3u8
 #EXTINF:-1 ,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江
 http://www.kitcc.cn:8888/udp/239.77.0.114:5146
 #EXTINF:-1 ,tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png",广东公共
@@ -433,6 +417,10 @@ http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct
 http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/RuAYuSM.png",Indigenous TV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="4K",YOSSO TV 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/WsOfy19.png",Lighting Lives Blessing Nations TV Chinese
