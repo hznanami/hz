@@ -4,11 +4,11 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 ,有線新聞
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 ,无線新聞
-http://iptv.cooltv.top/tv/tvb.php?id=0
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 ,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.112114.xyz/logo/j2.png",j2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 ,tvg-id="TVB财经台" tvg-name="TVB财经台" tvg-logo="https://epg.112114.xyz/logo/TVB财经台.png",TVB财经台
-http://iptv.cooltv.top/tv/tvb.php?id=2
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 ,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png",有线财经资讯台
 http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 ,tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png",ViuTV
