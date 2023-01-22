@@ -157,6 +157,44 @@ http://ly01.eu.org:10000/udp/239.253.43.100:5146
 http://ly01.eu.org:10000/udp/239.77.0.230:5146
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://ly01.eu.org:10000/udp/239.253.43.101:5146
+#EXTINF:-1 ,都市剧场
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
+#EXTINF:-1 ,新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1 ,苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,中国教育-1
+http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 ,娱乐频道
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,外语频道
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,豆瓣电影
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 ,华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K",欢笑剧场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,纪实人文
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CNC
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
+#EXTINF:-1 ,CHC高清電影
+http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 #EXTINF:-1 ,NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 #EXTINF:-1 ,日テレ
@@ -207,41 +245,3 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:-1 ,Star 2
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
-#EXTINF:-1 ,都市剧场
-http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 ,新疆卫视
-http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-#EXTINF:-1 ,苏州4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,中国教育-1
-http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,动漫秀场
-http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 ,娱乐频道
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,外语频道
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,生活时尚
-http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 ,豆瓣电影
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 ,华语电视
-http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K",欢笑剧场
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 ,纪实人文
-http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实
-http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 ,CNC
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
-#EXTINF:-1 ,CHC高清電影
-http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
