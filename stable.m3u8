@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
 #EXTINF:-1 ,有線新聞
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 ,无線新聞
@@ -18,7 +18,7 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 ,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png",RTHK31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/B7gI80t.png",RTHK32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
+http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1 ,RTHK33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1 ,RTHK34
