@@ -7,22 +7,10 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 ,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.112114.xyz/logo/j2.png",j2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 ,tvg-id="TVB财经台" tvg-name="TVB财经台" tvg-logo="https://epg.112114.xyz/logo/TVB财经台.png",TVB财经台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 ,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png",有线财经资讯台
 http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 ,tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 6
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 ,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png",RTHK31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/B7gI80t.png",RTHK32
-http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1 ,RTHK33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 ,RTHK34
-https://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 ,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
