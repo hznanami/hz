@@ -38,9 +38,9 @@ http://ly01.eu.org:10000/udp/239.77.0.225:5146
 #EXTINF:-1 ,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png",广东新闻
 http://ly01.eu.org:10000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://www.arp220.us:80/1431300600@Curly_MouseIPTV/kplRdnjGNp/1098
-#EXTINF:-1 ,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
 http://ly01.eu.org:10000/udp/239.253.43.71:5146
+#EXTINF:-1 ,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
+http://ly01.eu.org:10000/udp/239.253.0.112:5146
 #EXTINF:-1 ,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
 http://ly01.eu.org:10000/udp/239.253.43.72:5146
 #EXTINF:-1 ,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
@@ -423,10 +423,6 @@ http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct
 http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/RuAYuSM.png",Indigenous TV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="4K",YOSSO TV 4K
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/WsOfy19.png",Lighting Lives Blessing Nations TV Chinese
