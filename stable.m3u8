@@ -163,8 +163,6 @@ http://ly01.eu.org:10000/udp/239.253.43.100:5146
 http://ly01.eu.org:10000/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://ly01.eu.org:10000/udp/239.253.43.101:5146
-#EXTINF:-1 ,新疆卫视
-http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 #EXTINF:-1 ,苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,中国教育-1
