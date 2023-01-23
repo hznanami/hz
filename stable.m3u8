@@ -169,11 +169,11 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://ly01.eu.org:10000/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视,都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="美食",中华美食
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="美食",中华美食
 http://ly01.eu.org:10000/udp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
 http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="娱乐频道" tvg-name="娱乐频道" tvg-logo="https://epg.112114.xyz/logo/娱乐频道.png",娱乐频道
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
