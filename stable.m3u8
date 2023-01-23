@@ -163,11 +163,11 @@ http://ly01.eu.org:10000/udp/239.253.43.100:5146
 http://ly01.eu.org:10000/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://ly01.eu.org:10000/udp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视,苏州4k
+#EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://epg.112114.xyz/logo/苏州4k.png" group-title="卫视",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视,中国教育-1
+#EXTINF:-1 tvg-id="中国教育-1" tvg-name="中国教育-1" tvg-logo="https://epg.112114.xyz/logo/中国教育-1.png" group-title="卫视",中国教育-1
 http://ly01.eu.org:10000/udp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视,都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="卫视",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="美食",中华美食
 http://ly01.eu.org:10000/udp/239.253.43.40:5146
