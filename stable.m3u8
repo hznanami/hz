@@ -201,14 +201,16 @@ http://192.168.50.100:10000/rtp/239.253.43.101:5146
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://192.168.50.100:10000/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://epg.112114.xyz/logo/苏州4k.png" group-title="卫视",苏州4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场
+http://192.168.50.100:10000/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场
+http://192.168.50.100:10000/rtp/239.253.43.16:5146
+#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场
+http://192.168.50.100:10000/rtp/239.253.43.15:5146
+#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐
+http://192.168.50.100:10000/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="卫视",CETV-1
 http://192.168.50.100:10000/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-name="CETV-2" group-title="IPTV-数字付费",CETV-2
-http://192.168.50.100:10000/rtp/239.77.1.69:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4
-http://192.168.50.100:10000/rtp/239.77.0.29:5146
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="卫视",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="美食",中华美食
@@ -239,8 +241,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="Tokyo MX1" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="JP",Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Tokyo MX2" tvg-logo="https://i.imgur.com/SwvuR00.png" group-title="JP",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax Indonesian
