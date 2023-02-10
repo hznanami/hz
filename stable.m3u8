@@ -31,8 +31,6 @@ http://192.168.50.100:10000/rtp/239.77.0.215:5146
 http://192.168.50.100:10000/rtp/239.77.0.20:5146
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png",广东综艺
 http://192.168.50.100:10000/rtp/239.77.0.246:5146
-#EXTINF:-1 tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://epg.112114.xyz/logo/广东文化.png",广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png",广州法治
 http://192.168.50.100:10000/rtp/239.253.43.74:5146
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
@@ -239,8 +237,6 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Animax Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax Indonesian
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="Anime TV" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation" ,Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AT-X" tvg-logo="https://i.imgur.com/turWday.png" group-title="Animation",AT-X
