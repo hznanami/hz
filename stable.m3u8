@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="香港",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
