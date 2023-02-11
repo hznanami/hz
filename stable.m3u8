@@ -187,8 +187,6 @@ http://192.168.50.100:10000/rtp/239.253.43.100:5146
 http://192.168.50.100:10000/rtp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="CNC" tvg-name="CNC" tvg-logo="https://epg.112114.xyz/logo/CNC.png",CNC
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://192.168.50.100:10000/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场
@@ -201,16 +199,8 @@ http://192.168.50.100:10000/rtp/239.253.43.15:5146
 http://192.168.50.100:10000/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="卫视",CETV-1
 http://192.168.50.100:10000/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="卫视",都市剧场
-http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="美食",中华美食
 http://192.168.50.100:10000/rtp/239.253.43.40:5146
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
-http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云
-http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
-http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="https://i.imgur.com/t5dyReW.png" group-title="JP",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="日テレ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="JP",日テレ
