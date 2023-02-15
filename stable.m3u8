@@ -189,13 +189,13 @@ http://192.168.50.100:10000/rtp/239.77.0.230:5146
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://192.168.50.100:10000/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png",怀旧剧场
 http://192.168.50.100:10000/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场
+#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台"tvg-logo="https://epg.112114.xyz/logo/风云剧场.png",风云剧场
 http://192.168.50.100:10000/rtp/239.253.43.16:5146
-#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场
+#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台"tvg-logo="https://epg.112114.xyz/logo/第一剧场.png",第一剧场
 http://192.168.50.100:10000/rtp/239.253.43.15:5146
-#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐
+#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台"tvg-logo="https://epg.112114.xyz/logo/风云音乐.png",风云音乐
 http://192.168.50.100:10000/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="卫视",CETV-1
 http://192.168.50.100:10000/rtp/239.77.0.200:5146
