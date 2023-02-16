@@ -197,9 +197,9 @@ http://192.168.50.100:10000/rtp/239.253.43.16:5146
 http://192.168.50.100:10000/rtp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台"tvg-logo="https://epg.112114.xyz/logo/风云音乐.png",风云音乐
 http://192.168.50.100:10000/rtp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV-1.png" group-title="卫视",CETV-1
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="卫视",CETV-1
 http://192.168.50.100:10000/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="美食",中华美食
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51121130U46.jpg" group-title="美食",中华美食
 http://192.168.50.100:10000/rtp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="https://i.imgur.com/t5dyReW.png" group-title="JP",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
