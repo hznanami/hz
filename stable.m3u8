@@ -55,53 +55,53 @@ http://192.168.50.100:10000/rtp/239.253.43.56:5146
 http://192.168.50.100:10000/rtp/239.253.43.57:5146
 #EXTINF:-1 tvg-name="中山综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P52H239254Q.jpg",中山综合
 http://192.168.50.100:10000/rtp/239.253.43.62:5146
-#EXTINF:-1 tvg-name="中山公共" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",香山文化
+#EXTINF:-1 tvg-name="中山公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P52H241042P.jpg",香山文化
 http://192.168.50.100:10000/rtp/239.253.43.63:5146
-#EXTINF:-1 tvg-name="东莞生活资讯" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P52H241042P.jpg",东莞生活资讯
+#EXTINF:-1 tvg-name="东莞生活资讯" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P52Q53040447.jpg",东莞生活资讯
 http://192.168.50.100:10000/rtp/239.253.43.105:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P304234052493.jpg",江门综合
 http://192.168.50.100:10000/rtp/239.77.0.201:5146
-#EXTINF:-1 tvg-name="江门侨乡生活" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",江门侨乡生活
+#EXTINF:-1 tvg-name="江门侨乡生活" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P30423423E12.jpg",江门侨乡生活
 http://192.168.50.100:10000/rtp/239.77.0.202:5146
-#EXTINF:-1 tvg-name="珠海-1" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",珠海-1
+#EXTINF:-1 tvg-name="珠海-1" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P930221345322.jpg",珠海-1
 http://192.168.50.100:10000/rtp/239.77.0.155:5146
-#EXTINF:-1 tvg-name="珠海-1" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",珠海-2
+#EXTINF:-1 tvg-name="珠海-1" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P930221I5c6.jpg",珠海-2
 http://192.168.50.100:10000/rtp/239.77.0.154:5146
-#EXTINF:-1 tvg-name="汕头综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",汕头综合
+#EXTINF:-1 tvg-name="汕头综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530211S5L3.jpg",汕头综合
 http://192.168.50.100:10000/rtp/239.253.43.45:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",揭阳综合
+#EXTINF:-1 tvg-name="揭阳综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530221032426.jpg",揭阳综合
 http://192.168.50.100:10000/rtp/239.77.0.229:5146
-#EXTINF:-1 tvg-name="揭阳生活" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",揭阳生活
+#EXTINF:-1 tvg-name="揭阳生活" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg",揭阳生活
 http://192.168.50.100:10000/rtp/239.77.0.251:5146
-#EXTINF:-1 tvg-name="汕尾文化生活" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",汕尾文化生活
+#EXTINF:-1 tvg-name="汕尾文化生活" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/22/1-220505213620430.jpg",汕尾文化生活
 http://192.168.50.100:10000/rtp/239.77.0.187:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",HZTV-1
 http://192.168.50.100:10000/rtp/239.77.1.232:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",HZTV-2
 http://192.168.50.100:10000/rtp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="韶关公共" tvg-name="韶关公共" tvg-logo="https://epg.112114.xyz/logo/韶关公共.png" group-title="广东地方台",韶关绿色生活
+#EXTINF:-1 tvg-id="韶关公共" tvg-name="韶关公共" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P304232JQ49.jpg",韶关绿色生活
 http://192.168.50.100:10000/rtp/239.77.0.119:5146
-#EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://epg.112114.xyz/logo/韶关综合.png" group-title="广东地方台",韶关综合
+#EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P304232530O5.jpg" group-title="广东地方台",韶关综合
 http://192.168.50.100:10000/rtp/239.77.0.117:5146
-#EXTINF:-1 tvg-name="肇庆综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",肇庆综合
+#EXTINF:-1 tvg-name="肇庆综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P53022054Gc.jpg",肇庆综合
 http://192.168.50.100:10000/rtp/239.253.43.1:5146
-#EXTINF:-1 tvg-name="河源综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",河源综合
+#EXTINF:-1 tvg-name="河源综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51GQ532L5.jpg",河源综合
 http://192.168.50.100:10000/rtp/239.253.43.213:5146
-#EXTINF:-1 tvg-name="河源公共" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",河源公共
+#EXTINF:-1 tvg-name="河源公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51GQQ2b5.jpg",河源公共
 http://192.168.50.100:10000/rtp/239.253.43.214:5146
-#EXTINF:-1 tvg-name="清远公共" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",清远公共
+#EXTINF:-1 tvg-name="清远公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212Z9294.jpg",清远公共
 http://192.168.50.100:10000/rtp/239.253.43.34:5146
-#EXTINF:-1 tvg-name="云浮综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",云浮综合
+#EXTINF:-1 tvg-name="云浮综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P53113550WC.jpg",云浮综合
 http://192.168.50.100:10000/rtp/239.77.0.253:5146
-#EXTINF:-1 tvg-name="茂名综合" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",茂名综合
+#EXTINF:-1 tvg-name="茂名综合" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530214544S9.jpg",茂名综合
 http://192.168.50.100:10000/rtp/239.77.0.206:5146
 #EXTINF:-1 tvg-name="茂名公共" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",茂名公共
 http://192.168.50.100:10000/rtp/239.77.0.207:5146
-#EXTINF:-1 tvg-name="湛江公共" group-title="广东地方台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",湛江公共
+#EXTINF:-1 tvg-name="湛江公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530214J3351.jpg",湛江公共
 http://192.168.50.100:10000/rtp/239.77.0.140:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.50.100:10000/rtp/239.77.0.130:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="深圳电视台" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",深圳公共频道
+#EXTINF:-1 tvg-name="深圳公共频道" group-title="深圳电视台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P12620034W95.jpg",深圳公共频道
 http://192.168.50.100:10000/rtp/239.77.1.126:5146
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://192.168.50.100:10000/rtp/239.77.1.144:5146
