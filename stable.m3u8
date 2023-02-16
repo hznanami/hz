@@ -97,7 +97,7 @@ http://192.168.50.100:10000/rtp/239.77.0.253:5146
 http://192.168.50.100:10000/rtp/239.77.0.206:5146
 #EXTINF:-1 tvg-name="茂名公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530214J3351.jpg",茂名公共
 http://192.168.50.100:10000/rtp/239.77.0.207:5146
-#EXTINF:-1 tvg-name="湛江公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530214J3351.jpg",湛江公共
+#EXTINF:-1 tvg-name="湛江公共" group-title="广东地方台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P502234H0P2.jpg",湛江公共
 http://192.168.50.100:10000/rtp/239.77.0.140:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.50.100:10000/rtp/239.77.0.130:5146
