@@ -126,9 +126,9 @@ http://192.168.50.100:10000/rtp/239.77.0.135:5146
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="CN",CCTV10
 http://192.168.50.100:10000/rtp/239.77.0.134:5146
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="CN",CCTV11
-http://192.168.50.100:10000/rtp/239.77.0.136:5146
+http://192.168.50.100:10000/rtp/239.77.1.238:5146
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="CN",CCTV12
-http://192.168.50.100:10000/rtp/239.77.1.109:5146
+http://192.168.50.100:10000/rtp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="CN",CCTV13
 http://192.168.50.100:10000/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="CN",CCTV14
