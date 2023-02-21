@@ -138,7 +138,7 @@ http://192.168.50.100:10000/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="CN",CCTV16
 http://192.168.50.100:10000/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="CN",CCTV17
-http://192.168.50.100:10000/rtp/239.77.1.121:5146
+http://192.168.50.100:10000/rtp/239.77.0.198:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="CN",CCTV4K
 http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="CN",江苏卫视
