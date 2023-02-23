@@ -143,6 +143,22 @@ http://192.168.50.100:10000/rtp/239.77.1.98:5146
 http://192.168.50.100:10000/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="CN",CCTV4K
 http://192.168.50.100:10000/rtp/239.77.0.174:5146
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="CN",CHC高清电影
+http://192.168.50.100:10000/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="CN",怀旧剧场
+http://192.168.50.100:10000/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="CN",风云剧场
+http://192.168.50.100:10000/rtp/239.253.43.16:5146
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="CN",第一剧场
+http://192.168.50.100:10000/rtp/239.253.43.15:5146
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="CN",风云音乐
+http://192.168.50.100:10000/rtp/239.253.43.6:5146
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="CN",CETV-1
+http://192.168.50.100:10000/rtp/239.77.0.200:5146
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51121130U46.jpg" group-title="CN",中华美食
+http://192.168.50.100:10000/rtp/239.253.43.40:5146
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="CN",求索纪录
+http://192.168.50.100:10000/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="CN",江苏卫视
 http://192.168.50.100:10000/rtp/239.77.1.18:5146
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="CN",广西卫视
@@ -189,20 +205,6 @@ http://192.168.50.100:10000/rtp/239.253.43.100:5146
 http://192.168.50.100:10000/rtp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="CN",海南卫视
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="CN",CHC高清电影
-http://192.168.50.100:10000/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="CN",怀旧剧场
-http://192.168.50.100:10000/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="CN",风云剧场
-http://192.168.50.100:10000/rtp/239.253.43.16:5146
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="CN",第一剧场
-http://192.168.50.100:10000/rtp/239.253.43.15:5146
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="CN",风云音乐
-http://192.168.50.100:10000/rtp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="CN",CETV-1
-http://192.168.50.100:10000/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51121130U46.jpg" group-title="CN",中华美食
-http://192.168.50.100:10000/rtp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="https://i.imgur.com/t5dyReW.png" group-title="JP",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="日テレ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="JP",日テレ
