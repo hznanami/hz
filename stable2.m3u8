@@ -63,7 +63,7 @@ http://192.168.50.100:10000/rtp/239.253.43.63:5146
 http://192.168.50.100:10000/rtp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P304234052493.jpg" group-title="CN",江门综合
 http://192.168.50.100:10000/rtp/239.77.0.201:5146
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="CN",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="CN",CCTV6
 http://192.168.50.100:10000/rtp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P30423423E12.jpg" group-title="CN",江门侨乡生活
 http://192.168.50.100:10000/rtp/239.77.0.202:5146
