@@ -156,7 +156,7 @@ http://192.168.50.100:10000/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="CN",CETV-1
 http://192.168.50.100:10000/rtp/239.77.0.200:5146
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51121130U46.jpg" group-title="CN",中华美食
-http://192.168.50.100:10000/rtp/239.253.43.40:5146
+http://192.168.50.100:10000/rtp/239.77.1.200:5146
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="CN",求索纪录
 http://192.168.50.100:10000/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="CN",江苏卫视
