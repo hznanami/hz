@@ -160,11 +160,11 @@ http://192.168.50.100:10000/rtp/239.77.1.200:5146
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="CN",求索纪录
 http://192.168.50.100:10000/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="CN",BesTV 1
-http://192.168.50.100:10000/rtp/239.253.43.116:5146
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="CN",BesTV 2
 http://192.168.50.100:10000/rtp/239.253.43.117:5146
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="CN",BesTV 3
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="CN",BesTV 2
 http://192.168.50.100:10000/rtp/239.253.43.118:5146
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="CN",BesTV 3
+http://192.168.50.100:10000/rtp/239.253.43.119:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="CN",江苏卫视
 http://192.168.50.100:10000/rtp/239.77.1.18:5146
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="CN",广西卫视
