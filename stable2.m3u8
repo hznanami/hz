@@ -93,7 +93,7 @@ http://192.168.50.100:10000/rtp/239.253.43.1:5146
 http://192.168.50.100:10000/rtp/239.253.43.213:5146
 #EXTINF:-1 tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51GQQ2b5.jpg" group-title="CN",河源公共
 http://192.168.50.100:10000/rtp/239.253.43.214:5146
-#EXTINF:-1 tvg-id="清远公共" tvg-name="清远公共" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212Z9294.jpg" group-title="CN",清远公共
+#EXTINF:-1 tvg-id="清远公共" tvg-name="清远公共" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212Z9294.jpg" group-title="CN",清远文旅生活
 http://192.168.50.100:10000/rtp/239.253.43.34:5146
 #EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P53113550WC.jpg" group-title="CN",云浮综合
 http://192.168.50.100:10000/rtp/239.77.0.253:5146
