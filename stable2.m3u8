@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/evchk/images/b/be/TVB_Jade.png/revision/latest?cb=20100713132121" group-title="CN",翡翠台
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="CN",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CN",凤凰中文
