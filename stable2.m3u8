@@ -6,10 +6,10 @@ https://pull-l3-cny.douyincdn.com/live/stream-13935018202305021000.m3u8?by=yesli
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="CN",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CN",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/stream-19632852023043013455.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/stream-19836282023050213275.m3u8?by=yeslivetv_com
 #http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
-#https://pull-l3-cny.douyincdn.com/live/stream-19893212023042700463.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-19632852023043013455.m3u8?by=yeslivetv_com
 #https://cdn.hklive.tv/xxxx/99/index.m3u8
 http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="CN",广东民生
@@ -218,6 +218,8 @@ http://192.168.50.100:10000/rtp/239.77.0.230:5146
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="CN",台视新闻
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="CN",民视新闻
+https://ytm2.yuanhsing.cf/FTVCP.m3u8
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="JP",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="日テレ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="JP",日テレ
