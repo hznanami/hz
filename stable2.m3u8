@@ -215,8 +215,6 @@ http://192.168.50.100:10000/rtp/239.253.43.100:5146
 http://192.168.50.100:10000/rtp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="CN",海南卫视
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="地震监测" tvg-name="地震监测" group-title="CN",地震监测
-https://cn-jsyz-ct-03-33.bilivideo.com/live-bvc/216343/live_18200769_73809732/index.m3u8?expires=1683082209&len=0&oi=2005130763&pt=web&qn=0&trid=1007d19977b56a4b4ef3a244b9c313c7ab9e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=a95566906b761daa8fa4671c3964ddb3&sk=1ee4e0546ce1ee72711d58830a653fbd&flvsk=edb428259cff871cf74543cfd3f855ec&p2p_type=1&sl=1&free_type=0&mid=0&sid=cn-jsyz-ct-03-33&chash=1&bmt=1&sche=ban&bvchls=1&score=1&pp=rtmp&source=onetier&trace=1099&site=19ca0da3d45ef8ca572c4fa27ab2fa65&order=1
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="JP",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="日テレ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="JP",日テレ
