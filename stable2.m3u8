@@ -261,3 +261,5 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Star 2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="JP",Star 2
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="US",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
