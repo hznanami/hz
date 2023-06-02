@@ -239,7 +239,7 @@ http://code.vthanhtivi.pw/getlink/jptv3/277/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="JP",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AT-X" tvg-logo="https://i.imgur.com/turWday.png" group-title="JP",AT-X
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="BS 12" tvg-logo="https://i.imgur.com/rpRlJUm.png" group-title="JP",BS 12
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 #EXTINF:-1 tvg-id="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="JP",BS朝日
