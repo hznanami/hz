@@ -216,22 +216,19 @@ http://192.168.50.100:10000/rtp/239.253.43.100:5146
 http://192.168.50.100:10000/rtp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="CN",海南卫视
 http://192.168.50.100:10000/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="地震监测" tvg-name="地震监测" group-title="CN",地震监测
-https://cn-jsyz-ct-03-33.bilivideo.com/live-bvc/305190/live_18200769_73809732/index.m3u8?expires=1683132243&len=0&oi=2005130763&pt=web&qn=0&trid=10076509b9d1f91948db94233ff9ae9ef4fc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=467324330fde0cab9bf8b49377ee794e&sk=1ee4e0546ce1ee72711d58830a653fbd&flvsk=edb428259cff871cf74543cfd3f855ec&p2p_type=1&sl=1&free_type=0&mid=256097085&sid=cn-jsyz-ct-03-33&chash=1&bmt=1&sche=ban&bvchls=1&score=1&pp=rtmp&source=onetier&trace=1099&site=739d863802e091e548b1ec788f0092f0&order=1
 #EXTINF:-1 tvg-id="NHK G" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="JP",NHK G
-https://nhk3.mov3.co/hls/nhk.m3u8
-#http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 #EXTINF:-1 tvg-id="日テレ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="JP",日テレ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="JP",TBS
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
 #EXTINF:-1 tvg-id="テレビ朝日" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JP",テレビ朝日
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 #EXTINF:-1 tvg-id="フジテレビ" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="JP",フジテレビ
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
 #EXTINF:-1 tvg-id="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="JP",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
 #EXTINF:-1 tvg-id="日テレNEWS24" group-title="JP",日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="JP",Weathernews
@@ -260,7 +257,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK BSP" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="JP",NHK BSP
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK E" tvg-logo="https://i.imgur.com/cQObxr1.png" group-title="JP",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=hnsnBqHDt2EXQupW2soBjw==
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JP",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="Star 1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="JP",Star 1
