@@ -6,8 +6,8 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-3484fcf7-1ac0-4bf8-b187-c7f1220
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="CN",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CN",凤凰中文
-#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-165dc5f7-0550-4234-8a46-3bbfc3abebfc.m3u8?by=yeslivetv_com
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.m3u8?by=yeslivetv_com
+#http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
 #https://pull-l3-cny.douyincdn.com/live/YesLiveTV-847ba5a9-647e-47a3-a2bc-bb1e49af8d4b.m3u8?by=yeslivetv_com
 http://192.168.50.100:10000/rtp/239.77.0.174:5146
