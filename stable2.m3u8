@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/evchk/images/b/be/TVB_Jade.png/revision/latest?cb=20100713132121" group-title="CN",翡翠台
-http://iptv.tvfix.org/hls/jade2.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-26c0fe93-b83f-4740-8c3d-5d2cf3b5916a.m3u8?by=yeslivetv_com
 #https://cdn.hklive.tv/xxxx/81/index.m3u8
 #http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="CN",有线新闻
@@ -9,8 +9,8 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.m3u8?by=yeslivetv_com
 #http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
-#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-847ba5a9-647e-47a3-a2bc-bb1e49af8d4b.m3u8?by=yeslivetv_com
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-932d2b8d-06cf-4bc5-8fc1-41683fe78533.m3u8?by=yeslivetv_com
+#http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="CN",广东民生
 http://192.168.50.100:10000/rtp/239.77.0.225:5146
