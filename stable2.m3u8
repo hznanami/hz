@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/evchk/images/b/be/TVB_Jade.png/revision/latest?cb=20100713132121" group-title="CN",翡翠台
-http://stream.hkanime.live/raw/81.ts?token=iEIwu3nYUvxw8xZchbA2VA&expires=1729052941
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-14578963-2811-4358-9a13-fa64a483dcd4.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="CN",有线新闻
-http://stream.hkanime.live/raw/82.ts
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CN",凤凰中文
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.m3u8?by=yeslivetv_com
 #http://192.168.50.100:10000/rtp/239.77.0.174:5146
