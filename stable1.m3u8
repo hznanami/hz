@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/evchk/images/b/be/TVB_Jade.png/revision/latest?cb=20100713132121" group-title="CN",翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-98c927d3-1c05-436c-8d19-6d526c2c8e73.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-12e97cb6-d5a9-437b-bbaf-b803008bcfbf.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
-https://cdn.hkdtmb.com/hls_12h/99/index.m3u8?token=7JoerrWYLZfQis3lFw4IjQ&expires=1701109977
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68466204-dbfa-47d8-9415-634aeb58a98f.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="CN",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-147342b9-9ef0-41dc-95cb-3527b9b4edee.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-4243c0d1-59d9-4221-882d-69fba6623d8e.m3u8?by=yeslivetv_com
 #http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="大爱2" tvg-name="大爱2" tvg-logo="https://epg.112114.xyz/logo/大爱2.png" group-title="CN",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
