@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="CN",翡翠台
 http://192.168.50.100:10000/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+http://192.168.50.100:10000/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="CN",凤凰中文
-http://192.168.50.100:10000/rtp/239.77.0.174:5146
+http://192.168.50.100:10000/rtp/239.77.0.175:5146
 #EXTINF:-1 tvg-id="i-Fun動漫台" tvg-name="i-Fun動漫台" group-title="CN",i-Fun動漫台
 https://tw11.yeslivetv.com/hi2/vod/litv-ftv15-audio_20000=123000-video=2000000.m3u8?content=litv-ftv15&md5=8d5a3b586bded2c5bcd000c7412a5cc8&expires=1688560147
