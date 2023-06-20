@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/evchk/images/b/be/TVB_Jade.png/revision/latest?cb=20100713132121" group-title="CN",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="CN",翡翠台
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-25db9a36-2b19-4b2c-9c22-c34f38e0d091.m3u8?by=yeslivetv_com
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="CN",ViuTV
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-6108c885-1f43-48b0-8da4-13a1a14105f8.m3u8?by=yeslivetv_com
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="CN",凤凰中文
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-28e0cc33-d0b0-484a-b74a-09931c03a2c4.m3u8?by=yeslivetv_com
